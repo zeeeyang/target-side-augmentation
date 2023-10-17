@@ -13,7 +13,6 @@
 
 ## Environment
 * Python3.6
-* PyTorch1.9.0
 * Setup the environment:
   ```
     git clone --recursive https://github.com/baoguangsheng/target-side-augmentation.git
